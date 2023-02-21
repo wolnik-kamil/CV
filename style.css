@@ -1,0 +1,162 @@
+body {
+    background: #F5F7FA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+aside {
+    width: 370px;
+    height: 1319px;
+    left: 40px;
+    top: 40px;
+    background: #1E2939;
+}
+
+.header-2nd {
+    color: #FFFFFF;
+}
+
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.cv-zdj {
+    margin-top: 40px;
+}
+
+.contact-links {
+    color: lightgrey;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.list-2nd {
+    color: #FB6D3A;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+ .li-2nd {
+    color: #FFFFFF;
+ }
+
+ .contact {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.tech-skills {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.soft-skills {
+    margin-top: 44px;
+    margin-left: 40px;
+}
+
+main {
+    padding: 102px 88px 102px 88px
+}
+
+.main-block {
+    width: 400px;
+    margin-bottom: 40px;
+}
+
+.worktype-header {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.description-paragraph {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.projects {
+    width: 485px;
+    margin-bottom: 51px;
+}
+
+.ordered-list {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.ordered-li {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+
+.work-exp {
+    width: 525px;
+    margin-bottom: 16px;
+}
+
+.main-2ndheader {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+
+.main-3rdheader {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.orange-span {
+    color: #FB6D3A;
+}
+
+.dates {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.bold-main {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.main-list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 0px;
+    list-style-position: outside;
+}
